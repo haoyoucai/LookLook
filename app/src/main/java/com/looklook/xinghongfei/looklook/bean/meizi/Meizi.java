@@ -31,7 +31,7 @@ public class Meizi {
     public String desc;
     public String who;
     public boolean used;
-    public Date createdAt;
+    public Date       createdAt;
     public Date updatedAt;
     public boolean hasFadedIn=false;
 
